@@ -34,5 +34,6 @@ spring:
     # Prevents running migrations out of order in production
     out-of-order: false
     validate-on-migrate: true
+    
 server:
   port: 8082
